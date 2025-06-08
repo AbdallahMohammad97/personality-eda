@@ -8,10 +8,10 @@ Honestly, I just think it’s interesting how some people want to be alone more 
 My main goal was to see if being an introvert or extrovert actually shows up in habits like how much time you spend alone, how many friends you’ve got, how often you go out, or if you get nervous on stage. I wanted to see if any of that connects to the risk of feeling down or getting burned out, and maybe find something useful that could actually help people.
 
 # How I Did It
-First I cleaned up the data, there were some missing values and a few numbers that didn’t make sense, so those got sorted out. Then I did some basic exploratory analysis — you know, making charts, comparing averages, and looking for weird outliers. Finally, I tried to connect all the dots and write out some ideas in plain English that hopefully make sense, even if you’re not a data nerd.
+First I cleaned up the data, there were some missing values and a few numbers that didn’t make sense, so those got sorted out. Then I did some exploratory analysis like making charts, comparing averages, and looking for weird outliers. Finally, I tried to connect all the dots and write out some ideas in plain English that hopefully make sense, even if you’re not a data nerd.
 
 # What I Found
-It turns out introverts really do spend more time alone, like sometimes 7 or 8 hours a day, while extroverts are more like a couple hours tops. Extroverts also tend to have more friends and go to more events, which kind of lines up with the stereotypes. One thing I thought was interesting: some people feel really drained after socializing but still go out a lot, so maybe there’s some pressure to keep up even when you’re tired.
+It turns out introverts really do spend more time alone, like sometimes 7 or 8 hours a day, while extroverts are more like a couple hours tops. Extroverts also tend to have more friends and go to more events, which kind of lines up with the stereotypes. One thing I thought was interesting some people feel really drained after socializing but still go out a lot, so maybe there’s some pressure to keep up even when you’re tired.
 
 # A Few Thoughts and Tips
 If you’re more introverted, it’s cool to enjoy your own company, but maybe don’t forget to reach out sometimes, even if it’s just to one or two friends. And if you’re an extrovert, it’s fun to be out and about but keep an eye on burnout, nobody can be “on” all the time. No matter what type you are, mental health can sneak up on anyone, so talk to somebody if things feel off.
@@ -30,6 +30,10 @@ If you see any errors, check that you’ve got the right Python and pip versions
 # Tools I Used
 Python, pandas, numpy, matplotlib, seaborn.
 
+# Power BI Visualizations
+I also used Power BI to create a dashboards with the same dataset. These dashboards show trends in social habits, friend circle size, time spent alone, and more. The visuals help make the patterns in the data really clear for anyone who isn’t into code.
+
+You can find the Power BI file (personality_dashboard.pbix) in this repo, and a few screenshots below for a quick look.
 # Disclaimer Bit
 This is just me exploring a dataset and sharing ideas, not any kind of medical advice. If you’re really struggling, talk to someone you trust or a pro. Everybody needs help sometimes.
 
