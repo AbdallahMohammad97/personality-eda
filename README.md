@@ -1,5 +1,5 @@
 
-# Personality-EDA
+# Personality-EDA (MORE DETAILS AND STEP BY STEP PROCESS CAN BE SEEN IN Notebook.ipynb FILE
 =======
 # Personality EDA: Exploring How Introvert & Extrovert Behaviors Connect to Mental Health
 Hey, welcome to my project! So I wanted to analyse some real world data about introverts and extroverts and figure out how different personality types maybe act in their daily lives and how that could link to mental health, especially stuff like depression. I found this dataset on Kaggle and honestly, mental health is something I care about, so it seemed like a good idea to explore it while practicing Python and getting better at visualizations.
