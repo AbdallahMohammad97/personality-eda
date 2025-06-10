@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Personality-EDA
+=======
 # Personality EDA: Exploring How Introvert & Extrovert Behaviors Connect to Mental Health
 Hey, welcome to my project! So I wanted to analyze some real world data about introverts and extroverts and figure out how different personality types maybe act in their daily lives and how that could link to mental health, especially stuff like depression. I found this dataset on Kaggle and honestly, mental health is something I care about, so it seemed like a good idea to explore it while practicing Python and getting better at visualizations.
 
@@ -37,3 +40,4 @@ You can find the Power BI file (personality_dashboard.pbix) in this repo, and a 
 # Disclaimer Bit
 This is just me exploring a dataset and sharing ideas, not any kind of medical advice. If you’re really struggling, talk to someone you trust or a pro. Everybody needs help sometimes.
 
+>>>>>>> 765cbb272dd4d42133deecffdf88c204792dc5db
