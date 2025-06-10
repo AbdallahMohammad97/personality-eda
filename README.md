@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Personality-EDA
 =======
 # Personality EDA: Exploring How Introvert & Extrovert Behaviors Connect to Mental Health
